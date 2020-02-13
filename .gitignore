@@ -115,8 +115,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# VS Code settings
+# VS Code and linter settings
 .vscode
+setup.cfg
 
 # virtualenv files
 venv/
